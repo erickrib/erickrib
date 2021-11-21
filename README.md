@@ -1,6 +1,6 @@
 ## Olá Pessoal👋! Eu sou o Erick
 
-- 🔭 Iniciando meu aprendizado no mundo da programação
+- 🔭 Iniciando meu aprendizado no mundo de desenvolvimento de software
 
   <div align="center">
     <a href="https://github.com/erickrib">
