@@ -1,4 +1,4 @@
-### ### Olá Pessoal👋! Meu nome é Erick
+## Olá Pessoal👋! Eu sou o Erick
 
 - 🔭 Iniciando meu aprendizado no mundo da programação
 
