@@ -1,11 +1,19 @@
-## Olá Pessoal👋! Eu sou o Erick
+<p align='center'>
+  <h1 align='center'>I'm Erick Ribeiro</h1>
+</p>
 
-- 🔭 Iniciando meu aprendizado no mundo de desenvolvimento de software
+<p align='center'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
+</p>
+
+- I live in Brazil 🇧🇷
+- My personal interests are technology, finance, entrepreneurship, personal development and sports. 
+- I have been studying Web Development 💻 🖱️
 
   <div align="center">
     <a href="https://github.com/erickrib">
-    <img height="180em" width="456.92em"src="https://github-readme-stats.vercel.app/api?username=erickrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="331.58em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrib&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erickrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrib&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>  
   <div style="display: inline_block"><br>
     <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
