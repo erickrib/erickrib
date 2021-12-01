@@ -8,7 +8,7 @@
 
 - I live in Brazil 🇧🇷
 - My personal interests are technology, finance, entrepreneurship, personal development and sports. 
-- I have been studying Web Development 💻 🖱️
+- I have been studying Web Development 💻☕
 
   <div align="center">
     <a href="https://github.com/erickrib">
