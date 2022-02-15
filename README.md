@@ -7,7 +7,7 @@
 </p>
 
 - I live in Brazil 🇧🇷
-- My personal interests are technology, finance, entrepreneurship, personal development and sports. 
+- My personal interests are technology, finance, entrepreneurship, and sports. 
 - I have been studying Web Development. 💻☕
 
   <div align="center">
