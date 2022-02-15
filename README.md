@@ -1,5 +1,5 @@
 <p align='center'>
-  <h1 align='center'>I'm Erick Ribeiro</h1>
+  <h1 align='center'>I'm Erick</h1>
 </p>
 
 <p align='center'>
@@ -7,8 +7,8 @@
 </p>
 
 - I live in Brazil 🇧🇷
-- My personal interests are technology, finance, entrepreneurship, and sports. 
 - I have been studying Web Development. 💻☕
+- My personal interests are technology, finance, entrepreneurship, nature and sports. 
 
   <div align="center">
     <a href="https://github.com/erickrib">
