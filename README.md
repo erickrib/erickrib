@@ -1,9 +1,9 @@
 <p align='center'>
-  <h1 align='center'>I'm Erick</h1>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
 </p>
 
 <p align='center'>
-  <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
+  <h1 align='center'>I'm Erick</h1>
 </p>
 
 - I live in Brazil 🇧🇷
