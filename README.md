@@ -7,7 +7,7 @@
 </p>
 
 - I live in Brazil 🇧🇷
-- I have been studying Web Development. 💻☕
+- I have been studying Web Development.💻☕
 - My personal interests are technology, finance, nature and sports. 
 
   <div align="center">
