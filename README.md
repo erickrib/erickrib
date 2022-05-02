@@ -6,8 +6,8 @@
   <h1 align='center'>I'm Erick</h1>
 </p>
 
-- I live in Brazil.🇧🇷
-- I have been studying Web Development.💻☕
+- I live in Brazil. 🇧🇷
+- I have been studying Web Development. 💻☕
 - My personal interests are technology, finance, nature and sports. 
 
   <div align="center">
