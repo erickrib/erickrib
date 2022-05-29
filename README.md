@@ -24,8 +24,11 @@
     <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="right" alt="Erick-yoda" height="130" widht="130" border="0" src="https://i.picasion.com/pic91/152c00ad4caabae6163b1ecb9cc2ef79.gif">
+    <div align="right">
+       <img alt="Erick-yoda" height="130" widht="130" border="0" src="https://i.picasion.com/pic91/152c00ad4caabae6163b1ecb9cc2ef79.gif">
+    </div>
   </div>
+  
   
    ## Contact 📲
   
