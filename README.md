@@ -26,9 +26,6 @@
     <img align="center" alt="Erick-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Erick-Git" height="60" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
     <img align="center" alt="Erick-Git" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <div align="right">
-       <img alt="Erick-yoda" height="130" widht="130" border="0" src="https://i.picasion.com/pic91/152c00ad4caabae6163b1ecb9cc2ef79.gif">
-    </div>
   </div>
   
   
